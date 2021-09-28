@@ -1,0 +1,4 @@
+title=Roomba
+author=Antoine
+orientation=portrait
+icon='icon.png'
